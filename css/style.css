@@ -14,3 +14,39 @@ header nav div a img {
     width: 90px;
     height: 90px;
 }
+
+nav a {
+    font-size: 100px;
+}
+
+.about-1 {
+    margin: 30px;
+    padding: 5px;
+    text-align: center;
+    justify-content: center;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none
+}
+
+li {
+    font-size: 20px;
+}
+
+.about-1 h1 {
+    text-align: center;
+    color: #FFC107;
+    font-weight: bold;
+}
+
+.about-1 p {
+    text-align: center;
+    padding: 3px;
+    color: black;
+}
+
+.branco {
+    height: 60px;
+}
