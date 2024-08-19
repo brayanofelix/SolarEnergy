@@ -2,15 +2,60 @@
     margin: 0;
     padding: 0;
 }
-/*
-main {
-    background-image: url(/SolarEnergy/imagens/background\ solar.png);
-    background-position: left;
-    height: 100vh;
-}
-*/
 
 header nav div a img {
     width: 90px;
     height: 90px;
+}
+
+.hrlinha {
+    width: 600px;
+    height: 3px;
+    background-color: #FFC107;
+    margin: 0 auto;
+    border: none;
+}
+
+.about-1 {
+    margin: 30px;
+    padding: 5px;
+}
+
+.about-1 h1 {
+    text-align: center;
+    color: #FFC107;
+    font-weight: bold;
+}
+
+.about-1 p {
+    text-align: center;
+    padding: 3px;
+    color: black;
+}
+
+.tamanho {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    width: 500px;
+}
+
+.rede {
+    width: 50px;
+}
+
+.espaco1 {
+    height: 217px;
+}
+
+.espaco2 {
+    height: 73px;
+}
+
+.textoh1 {
+    font-size: 40px;
+}
+
+.textop1 {
+    font-size: 18px;
 }

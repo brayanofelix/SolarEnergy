@@ -16,10 +16,6 @@ header nav div a img {
     height: 90px;
 }
 
-main {
-    border: 1px solid lightgray;
-}
-
 .about-1 {
     margin: 30px;
     padding: 5px;
@@ -96,4 +92,12 @@ main {
     background-color: #FFC107;
     margin: 0 auto;
     border: none;
+}
+
+.textoh1 {
+    font-size: 40px;
+}
+
+.textop1 {
+    font-size: 18px;
 }
