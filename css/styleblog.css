@@ -15,7 +15,7 @@ header nav div a img {
 }
 
 .hrlinha {
-    width: 100%;
+    max-width: 400px;
     height: 6px;
     background-color: #FFC107;
     margin: 0 auto;

@@ -52,7 +52,7 @@ header nav div a img {
 }
 
 .about-item hr {
-    width: 150px;
+    width: 130px;
     height: 3px;
     background-color: #FFC107;
     margin: 0 auto;
@@ -87,7 +87,7 @@ header nav div a img {
 }
 
 .hrlinha {
-    width: 600px;
+    max-width: 400px;
     height: 3px;
     background-color: #FFC107;
     margin: 0 auto;
